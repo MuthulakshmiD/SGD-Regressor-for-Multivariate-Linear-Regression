@@ -73,23 +73,31 @@ print("Mean Squared Error :",mse)
 print(y_pred)
 ```
 ## Output:
-
+# df.head():
 ![Screenshot 2025-03-22 131448](https://github.com/user-attachments/assets/ccca5444-73dd-4d15-b05b-41028b42f798)
 
+# df.info():
 ![Screenshot 2025-03-22 131455](https://github.com/user-attachments/assets/5c05a082-aa3b-41c3-a46f-561cc2304077)
 
+# x.info():
 ![Screenshot 2025-03-22 131502](https://github.com/user-attachments/assets/dfd85a6a-e531-4bd4-b088-fb815c95323b)
 
+# y.info():
 ![Screenshot 2025-03-22 131508](https://github.com/user-attachments/assets/4483f4ad-8ea1-4c95-ba95-a06e593ebdfa)
 
+# shape of X & y:
 ![Screenshot 2025-03-22 131513](https://github.com/user-attachments/assets/a51eeebd-7fb8-408f-98c0-3c0e946a8ce5)
 
+# x & y:
 ![Screenshot 2025-03-22 131543](https://github.com/user-attachments/assets/a8c661d8-dc18-4aac-906d-9e72d290af75)
 
 ![Screenshot 2025-03-22 131557](https://github.com/user-attachments/assets/a1e36426-cf86-4dda-8e8f-a08b5eaee562)
 
+
+# MultioutputRegressor:
 ![Screenshot 2025-03-22 131613](https://github.com/user-attachments/assets/1b31b3f0-b4f4-4355-8694-d860cc9b67a7)
 
+# y_pred & Mean Squared Error:
 ![Screenshot 2025-03-22 131622](https://github.com/user-attachments/assets/ed07ba92-0e34-463c-8663-2996b0410a92)
 
 
